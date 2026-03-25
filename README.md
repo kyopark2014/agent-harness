@@ -12,4 +12,5 @@
 
 [[LangChain] The Anatomy of an Agent Harness](https://www.notion.so/LangChain-The-Anatomy-of-an-Agent-Harness-32ee14767c3d816a9d86fa0db911c241)
 
+[Agent Harness 완전 정리](https://www.notion.so/Agent-Harness-32ee14767c3d8180a9c0f3cd66ba6b4f)
 
