@@ -28,3 +28,4 @@
 
 [Building a Production-Ready AI Agent Harness](https://dev.to/apssouza22/building-a-production-ready-ai-agent-harness-2570)
 
+[[Anthropic] Effective Harnesses for Long-Running Agents](https://www.notion.so/Anthropic-Effective-Harnesses-for-Long-Running-Agents-32ee14767c3d810ea5d7d1448045479c)
